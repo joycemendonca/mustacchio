@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 .icons-header a{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
@@ -23,22 +26,54 @@
     justify-content: space-between;    
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    font-weight: bold;
+    font-weight: ;
     padding: 36px 0px 36px 0px;
     background-color: black;
     color: white;
 }
 
-.icons-footer a{
+.footer-icons a{
    color: white;
    text-decoration: none;
    padding: 10px;
 }
 
-.icons-footer{
+.footer-icons{
     margin-right: 190px;
+    
 }
 
-.text-footer{
+.footer-text{
     margin-left: 190px;
+}
+
+.home-background-img{
+    background-color: thistle;
+    height: 515px;
+    width: 100%;
+}
+
+.home-text{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 334px;
+    width: 960px;
+    margin: auto;
+    padding-left: 450px;
+    padding-top: 50px;
+    line-height: 40px;
+
+}
+
+.home-text a{
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+    height: 64px;
+    width: 150px;
+    background: #0ba39c;
+    padding: 26px 27px;
+    text-align: center;
+
 }
