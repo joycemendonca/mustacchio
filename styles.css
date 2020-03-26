@@ -66,6 +66,12 @@
 
 }
 
+.home-text p{
+    background: black;
+    color: white;
+    
+}
+
 .home-text a{
     text-decoration: none;
     font-size: 16px;
@@ -76,4 +82,26 @@
     padding: 26px 27px;
     text-align: center;
 
+}
+
+.home-text h2{
+    font-family: 'Poller One', cursive;
+    font-size: 20px;
+    background: #fff;
+    text-align: center;
+}
+
+.home-text-1{
+    width: 400.83px;
+    text-align: center;
+}
+
+.home-text-2{
+    width: 452px;
+    text-align: center;
+}
+
+.home-text-3{
+    width: 364.19px;
+    text-align: center;
 }
