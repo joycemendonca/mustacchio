@@ -3,6 +3,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     padding: 0px 19px;
+    font-weight: bold;
     
 }
 
@@ -14,4 +15,30 @@
     padding: 50px 0px 46px;
     width: 100%;
     text-align: center;
+}
+
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 36px 0px 36px 0px;
+    background-color: black;
+    color: white;
+}
+
+.icons-footer a{
+   color: white;
+   text-decoration: none;
+   padding: 10px;
+}
+
+.icons-footer{
+    margin-right: 190px;
+}
+
+.text-footer{
+    margin-left: 190px;
 }
