@@ -106,10 +106,29 @@
     text-align: center;
 }
 
+.home-gallery-all{
+    
+}
 .home-gallery{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 24px;
+    padding: 25px;
 
+}
+
+.gallery-img-text{
+    text-align: center;
+    padding: 20px;
+}
+
+.gallery-img-text a{
+    text-decoration: none;
+    font-family: 'Poller One', cursive;
+    font-size: 20px;
+    color: #000000;
+}
+
+.gallery-text{
+    padding-top: 33px;
 }
