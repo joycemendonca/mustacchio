@@ -105,3 +105,11 @@
     width: 364.19px;
     text-align: center;
 }
+
+.home-gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 24px;
+
+}
