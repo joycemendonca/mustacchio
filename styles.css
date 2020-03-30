@@ -189,3 +189,15 @@
     padding: 24px 12px 12px;
     
 }
+
+.blog-content-all{
+       
+    display: flex;
+    justify-content: center;
+    
+}
+.blog-content{
+    text-align: center;
+    border: 1px solid black;
+    
+}
