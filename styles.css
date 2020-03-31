@@ -12,6 +12,15 @@
 
 .icons-header{
     margin-top: 56px;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.icons-header a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .header{
@@ -177,6 +186,10 @@
 
 .content-text{
     line-height: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    
 }
 
 .gallery-img{
@@ -191,13 +204,42 @@
 }
 
 .blog-content-all{
-       
-    display: flex;
-    justify-content: center;
+    
+ 
     
 }
+
+.blog-post{
+    height: 271px;
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+
+.blog-img img{
+    border-right: 3px solid black;
+}
+
 .blog-content{
     text-align: center;
-    border: 1px solid black;
+    height: 265px;
+  
     
+}
+
+.blog-content .content-text a{
+    color: black;
+}
+
+.blog-content-button{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 8px 28px;
+    background: black;
+    color: white;
+    font-weight: bold;
 }
