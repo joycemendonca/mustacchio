@@ -36,7 +36,6 @@
     justify-content: space-between;    
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    font-weight: ;
     padding: 36px 0px 36px 0px;
     background-color: black;
     color: white;
@@ -117,9 +116,6 @@
     text-align: center;
 }
 
-.home-gallery-all{
-    
-}
 .home-gallery{
     display: flex;
     justify-content: center;
@@ -205,12 +201,6 @@
     
 }
 
-.blog-content-all{
-    
- 
-    
-}
-
 .blog-post{
     height: 271px;
     display: flex;
@@ -252,13 +242,17 @@
     border: 2px solid black;
     text-align: center;
     
-
 }
 
 .contact-search-2{
     display: flex;
     justify-content: center;
     margin: 0 0 37px;
+    
+}
+
+.contact-search-2 textarea{
+    padding-top: 15px;
 }
 
 .contact-search-3{
@@ -266,7 +260,7 @@
     width: 620px;
     border: 2px solid black;
     text-align: center;
-    
+      
 }
 
 .contact-button-send{
