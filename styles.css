@@ -3,10 +3,11 @@
 }
 .icons-header a{
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Arial Black", Gadget, sans-serif;;
     font-size: 14px;
     padding: 0px 19px;
-    font-weight: bold;
+    font-weight: bolder;
+    color: black;
     
 }
 
@@ -23,6 +24,10 @@
     width: 100%;
     text-align: center;
 
+}
+
+.icons-header .link-active{
+    color: #0ba39c !important;
 }
 
 .footer{
