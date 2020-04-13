@@ -273,3 +273,21 @@
     font-weight: bold;
     display: flex;
 }
+
+.modal{
+    position: fixed;
+    top: 50%;
+    margin-top: -224px;
+    left: 50%;
+    margin-left: -360px;
+    background-color:white;
+    padding: 10px;
+    display: none;
+}
+
+.modal-close{
+    text-align: right;    
+    margin-right: 5px;
+}
+
+
